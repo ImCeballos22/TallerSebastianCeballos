@@ -12,7 +12,7 @@ namespace DevWorkshop.TaskAPI.Api.Controllers;
 public class WorkshopController : ControllerBase
 {
     /// <summary>
-    /// Obtiene información general del taller
+    /// Obtiene información general del taller 6yyhyhyhyh
     /// </summary>
     /// <returns>Información del taller DevWorkshop TaskAPI</returns>
     [HttpGet("info")]
